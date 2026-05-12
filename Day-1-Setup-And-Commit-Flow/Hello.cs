@@ -1,7 +1,7 @@
 using System;
 
 
-namespace HelloWorld
+namespace Day1
 {
 
  class Hello
@@ -9,7 +9,7 @@ namespace HelloWorld
        static void Main(string[] args)
     {
 
-        Console.WriteLine("Hello World! ");
+        Console.WriteLine("Hello World!");
 
 
     }
